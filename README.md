@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" style="background: #323232; padding: 10px 0">
   <img width="266" height="198" src="https://github.com/sviridoff/escape-arena/raw/master/Assets/Sprites/logo.png">
 </p>
 
@@ -15,4 +15,7 @@ Uses the amazing [EcsRx](https://github.com/EcsRx/ecsrx) ECS pattern based frame
 
 ## Screenshots
 
+<img width="400" height="250" style="margin-right: 20px" src="https://github.com/sviridoff/escape-arena/raw/master/screenshots/gameplay.png">
+
+<img width="400" height="250" src="https://github.com/sviridoff/escape-arena/raw/master/screenshots/intro.png">
 
