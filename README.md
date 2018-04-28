@@ -1,11 +1,11 @@
 
-<p align="center" style="background: #323232; padding: 10px 0">
-  <img width="266" height="198" src="https://github.com/sviridoff/escape-arena/raw/master/Assets/Sprites/logo.png">
+<p align="center">
+  <img width="266" height="198" src="https://github.com/sviridoff/escape-arena/raw/master/screenshots/logo.png">
 </p>
 
 # escape-arena
 
-A simple top down shooter game made with Unity for educational purposes only.
+A simple top down shooter game made in Unity for educational purposes only.
 
 Uses the amazing [EcsRx](https://github.com/EcsRx/ecsrx) ECS pattern based framework with the [Zenject](https://github.com/modesttree/Zenject) as DI framework.
 
